@@ -10,7 +10,7 @@ Each project is unique and I learnt some aspect of Python from it.
 ## Project List
 
 1. Dictionary CMD Line Application with auto-suggest
-2. 
+2. World Population Map and Volcanoes Location Map
 
 ---
 
