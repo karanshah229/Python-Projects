@@ -3,7 +3,7 @@
 ## Features
 
 1. A python app that fetches the meaning of the word input by the user
-2. Also, the application can detect spelling and gramatical errors to suggest 
+2. Also, the application can detect spelling and gramatical errors to suggest  
 the correct word that the user was going to type, like Google does
 
 ---
