@@ -12,12 +12,12 @@ the correct word that the user was going to type, like Google does
 
 1. Git clone the repository or alternatively download all the files in this folder
 2. Navigate to download location in terminal and execute:
-```python
-> python dict.py
+> ```python
+python dict.py
 3. Test words:
 	i. happy
 	ii. baat
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/1. Dictionary App/screenshots/Capture.JPG"Dictionary CMD Line Application")
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/1. Dictionary App/screenshots/Capture.JPG "Dictionary CMD Line Application")
