@@ -20,4 +20,4 @@ the correct word that the user was going to type, like Google does
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/Python-Projects/raw/master/src/common/images/icon48.png "Dictionary CMD Line Application")
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/1.%20Dictionary%20App/screenshots/Capture.JPG"Dictionary CMD Line Application")
