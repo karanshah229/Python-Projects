@@ -14,8 +14,8 @@ the correct word that the user was going to type, like Google does
 2. Navigate to download location in terminal and execute:
 > python dict.py
 3. Test words:
-	⋅⋅* happy
-	⋅⋅* baat
+	* happy
+	* baat
 
 ## Screenshots
 
