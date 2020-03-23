@@ -8,6 +8,11 @@ the correct word that the user was going to type, like Google does
 
 ---
 
+### Technology / Libraries Learnt and Used:
+1. difflib - to calculate the closest match to incorrect input word
+
+---
+
 ## Install Instructions
 
 1. Git clone the repository or alternatively download all the files in this folder
@@ -16,6 +21,8 @@ the correct word that the user was going to type, like Google does
 3. Test words:
 	* happy
 	* baat
+
+---
 
 ## Screenshots
 

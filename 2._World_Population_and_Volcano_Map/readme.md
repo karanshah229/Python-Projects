@@ -1,5 +1,7 @@
 # World Population Map and Volcano sites in USA
 
+---
+
 ## Features
 
 1. A python app that shows the World Population Statistics  
@@ -8,6 +10,8 @@ and shows all the Volcano sites in USA
 sites Layer or the World Population Layer
 3. The map also has zoom functionality as well as uses markers to  
 display additional information about the Volcanoes
+
+---
 
 ### Technology / Libraries Learnt and Used:
 1. Folium library in conjungtion with Leaflet (under the hood) to  
@@ -26,6 +30,8 @@ create maps with multiple layers
 connection to view the map along with all it's layers
 5. Click on the icon in top-right to toggle each layer 'on' or 'off'  
 The map can also be viewed [here](http://python-folium-map.epizy.com/)
+
+---
 
 ## Screenshots
 

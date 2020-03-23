@@ -1,5 +1,7 @@
 # Website Blocker
 
+---
+
 ## Features
 
 1. A python program that blocks a user from visiting certain  
@@ -12,7 +14,9 @@ list to 127.0.0.1
 4. The program will **automatically** detect the time and allow  
 the user to visit the websites if working hours are over
 
-### Technology Learnt and Used:
+---
+
+### Technology / Libraries Learnt and Used:
 1. datetime Module - To check if it is working hours or not
 2. pyw to make an executable python script
 
@@ -25,6 +29,8 @@ the user to visit the websites if working hours are over
 Note: Make sure you are logged in as Administrator
 3. This will add all the entries in the file and remove them automatically
 4. Now if you try to visit these websites in working hours, you will be redirected
+
+---
 
 ## Screenshots
 
