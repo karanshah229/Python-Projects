@@ -24,7 +24,8 @@ create maps with multiple layers
 3. This will create or overwrite the 'Map.html' file
 4. Open 'Map.html' in a web browser and make sure you have active internet  
 connection to view the map along with all it's layers
-5. Click on the icon in top-right to toggle each layer 'on' or 'off'
+5. Click on the icon in top-right to toggle each layer 'on' or 'off'  
+The map can also be viewed [here](http://python-folium-map.epizy.com/)
 
 ## Screenshots
 
