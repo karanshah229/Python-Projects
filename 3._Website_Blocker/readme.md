@@ -28,7 +28,7 @@ Note: Make sure you are logged in as Administrator
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/3._Website_Blocker/screenshots/website_blocker.jpg "Website Blocker")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/3._Website_Blocker/screenshots/website_blocker.JPG "Website Blocker")  
 
 ##### Note:
 Make sure you are logged in as Administrator  
