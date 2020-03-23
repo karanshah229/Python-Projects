@@ -11,6 +11,7 @@ Each project is unique and I learnt some aspect of Python from it.
 
 1. Dictionary CMD Line Application with auto-suggest
 2. World Population Map and Volcanoes Location Map
+3. Website Blocker
 - Rest are upcoming
 ---
 
