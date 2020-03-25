@@ -32,11 +32,11 @@ the BookStore.exe file
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore\screenshots\view_all_books.JPG "Web Map - All Layers")  
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore\screenshots\add_book.JPG "Web Map - All Layers")  
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore\screenshots\search_book.JPG "Web Map - All Layers")  
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore\screenshots\update_book.JPG "Web Map - All Layers")  
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore\screenshots\delete_book.JPG "Web Map - All Layers")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/view_all_books.JPG "Web Map - All Layers")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/add_book.JPG "Web Map - All Layers")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/search_book.JPG "Web Map - All Layers")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/update_book.JPG "Web Map - All Layers")  
+![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/delete_book.JPG "Web Map - All Layers")  
 
 ##### Note:
 If you are a MAC / Linux user:  
