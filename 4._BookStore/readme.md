@@ -32,10 +32,15 @@ the BookStore.exe file
 
 ## Screenshots
 
+View All Books:  
 ![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/view_all_books.JPG "Web Map - All Layers")  
+Add Book:  
 ![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/add_book.JPG "Web Map - All Layers")  
+Search Book:  
 ![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/search_book.JPG "Web Map - All Layers")  
+Update Book:  
 ![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/update_book.JPG "Web Map - All Layers")  
+Delete Book:  
 ![alt text](https://github.com/karanshah229/Python-Projects/blob/master/4._BookStore/screenshots/delete_book.JPG "Web Map - All Layers")  
 
 ##### Note:
