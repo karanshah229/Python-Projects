@@ -1,5 +1,7 @@
 # Dictionary CMD Line App
 
+---
+
 ## Features
 
 1. A python app that fetches the meaning of the word input by the user
