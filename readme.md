@@ -22,5 +22,6 @@ and also provide screenshots and may also contain test cases for you to run
 
 ---
 
-If you find a bug or want to suggest some improvements:
+###### If you find a bug or want to suggest some improvements
+Take a pull request or email:
 > karanshah229@gmail.com
