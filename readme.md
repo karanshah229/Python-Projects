@@ -1,6 +1,6 @@
-# 9 Amazing Python Projects
+# 5 Amazing Python Projects
 
-These are 9 Python Projects that I build while learning Python in it's entirety.
+These are 5 Python Projects that I build while learning Python in it's entirety.
 They range from simple CMD line applications to complex GUI applications with 
 complete backend functionalties as well.
 Each project is unique and I learnt some aspect of Python from it.
